@@ -77,6 +77,7 @@ function CreateTrip() {
 
       return;
     }*/
+   //this was my safe point if above did not work
 
       
     setLoading(true);
