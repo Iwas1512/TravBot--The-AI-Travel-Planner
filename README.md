@@ -1,5 +1,7 @@
 # React + Vite
 
+More Documented README Coming Soon.
+
 Sources used:
  https://ui.shadcn.com/docs/components/dialog
  https://www.npmjs.com/package/@react-oauth/google
