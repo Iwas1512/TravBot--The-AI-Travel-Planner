@@ -11,6 +11,9 @@ function InfoSection({trip}) {
         trip&&GetPlacePhoto();
 
     },[trip])
+
+
+
     const GetPlacePhoto =async()=>{
         const data={
             textQuery:trip?.userSelection?.location?.label
@@ -21,6 +24,7 @@ function InfoSection({trip}) {
             setPhotoUrl(PhotoUrl);
         })
     }
+    
   return (
     <div>
 
