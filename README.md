@@ -1,11 +1,15 @@
 # React + Vite
 
+More Documented README Coming Soon.
+
 Sources used:
  https://ui.shadcn.com/docs/components/dialog
  https://www.npmjs.com/package/@react-oauth/google
  https://firebase.google.com/docs/firestore/manage-data/add-data
  https://developers.google.com/maps/documentation
  https://developers.google.com/maps/documentation/places/web-service/text-search
+
+ Note That I used my own API keys. They are not available to public, sorry
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
