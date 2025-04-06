@@ -34,7 +34,7 @@ An AI-powered travel planning application that helps users create personalized t
 
 - Node.js (v18 or higher)
 - npm or yarn
-- Google API keys (Places, Maps, OAuth, Generative AI)
+- Google API keys (Places, Maps, OAuth, Generative AI) Preferred Gemini AI Key
 - Firebase project with Firestore enabled
 
 ### Setup
