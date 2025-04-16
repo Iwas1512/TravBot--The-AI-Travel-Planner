@@ -30,7 +30,7 @@ An AI-powered travel planning application that helps users create personalized t
 
 ## Installation
 
-### Prerequisites
+### Prerequisites:
 
 - Node.js (v18 or higher)
 - npm or yarn
