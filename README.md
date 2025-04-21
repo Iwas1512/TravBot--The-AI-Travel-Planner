@@ -14,7 +14,7 @@ An AI-powered travel planning application that helps users create personalized t
 - **Budget-Conscious Recommendations**: Customized suggestions based on budget preferences
 - **Interactive Maps**: View recommended locations on interactive maps
 
-## Tech Stack
+## Tech Stack:
 
 - **Frontend**: React.js with Vite
 - **Styling**: Tailwind CSS with shadcn/ui components
