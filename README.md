@@ -4,7 +4,7 @@ An AI-powered travel planning application that helps users create personalized t
 
 [Watch the showcase video](https://www.youtube.com/watch?v=I3TibSA7qTo)
 
-## Features
+## Features:
 
 - **AI-Generated Trip Plans**: Leverages Google's Gemini 2.0 Flash to create personalized travel itineraries
 - **Google Places Integration**: Provides real-time information about locations, hotels, and attractions
